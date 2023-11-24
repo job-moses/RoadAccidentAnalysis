@@ -1,6 +1,6 @@
 /* ROAD ACCIDENT ANALYSIS IN SQL */
 
-
+--- Select top 100 rows -------
 SELECT TOP 100  [Index]
       ,[Accident_Severity]
       ,[Accident_Date]
